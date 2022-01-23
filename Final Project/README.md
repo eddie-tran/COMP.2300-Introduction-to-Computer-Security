@@ -5,7 +5,7 @@ Date: 10/24/2021 <br />
 
 Goals: <br />
 
--- Milestone 1 <br />
+- Milestone 1 <br />
     Registration <br />
     Check if json is empty <br />
     Encrypt password <br />
@@ -21,10 +21,10 @@ Goals: <br />
     Encrypt contact.json using public key <br />
     Decrypt contact.json using private key <br />
 
-How to compile: <br />
+- How to compile: <br />
 	python main.py <br />
 
-When compiled: <br />
+- When compiled: <br />
     4 files will generate in order for this program to work. <br />
         user.json <br />
         contacts.json <br />
