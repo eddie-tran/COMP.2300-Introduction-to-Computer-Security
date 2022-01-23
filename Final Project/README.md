@@ -38,8 +38,7 @@ Goals: <br />
     On login, contacts.json will decrypt showing your contacts to hopefully the 'real' user. <br />
     On exit, the contacts.json will encrypt in order to protect your data from attacks. <br />
     
-    
-    ---------------------------------------------------------------------------------------------- <br />
+-------------------------------------------------------------------------------------------------------------- <br />
     
 Class: Introduction to Computer Security <br />
 Assignment: Project <br />
