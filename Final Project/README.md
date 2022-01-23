@@ -5,7 +5,7 @@ Date: 10/24/2021 <br />
 
 Goals: <br />
 
-- Milestone 1 <br />
+-- Milestone 1 <br />
     Registration <br />
     Check if json is empty <br />
     Encrypt password <br />
